@@ -49,7 +49,6 @@
   text-align: center;
 }
 
-
 /* header */
 .header{
   background-image: url(../images/developer.png), url(../images/header_bg.png);
@@ -143,5 +142,10 @@ main{
 
 .item-description{
   font-weight: 600;
+}
 
+/* skill section style */
+.skills-container{
+  display: flex;
+  
 }
