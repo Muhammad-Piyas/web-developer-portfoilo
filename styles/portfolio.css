@@ -179,6 +179,7 @@ main section{
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 20px;
+    margin-top: 10px;
   }
 
   .experience-description {
@@ -186,3 +187,19 @@ main section{
     font-size: 16px;
     font-weight: 400;
   }
+ .experience-title{
+  color: #474747;
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 10px;
+ }
+ .resume-column-title{
+  color: #474747;
+  font-size: 30px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  margin-top: 113px;
+ }
+ .resume-download-cv{
+  margin-top: 50px;
+ }
