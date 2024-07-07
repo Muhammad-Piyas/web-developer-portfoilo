@@ -166,3 +166,23 @@ main section{
     font-size: 14px;
     font-weight: 400;
   }
+
+  /* resume section styles */
+
+  .resume-container{
+    display: flex;
+    gap: 24px;
+  }
+
+  .experience-sub-title{
+    color: #757575;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+  }
+
+  .experience-description {
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+  }
